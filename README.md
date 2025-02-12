@@ -1,1 +1,0 @@
-# O-que-eu-gosto-em-Goi-nia
