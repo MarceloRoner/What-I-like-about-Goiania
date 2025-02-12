@@ -1,0 +1,95 @@
+body{
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+sans-serif;;
+    line-height: 1.6;
+}
+
+.container{
+    margin: 0 auto;
+    width: 960px;
+}
+.place{
+    border-color: #CCC #999 #999 #CCC;
+    border: 1px solid #CCC;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.place h2{
+    border-bottom: 1px dashed #7E9F19;
+    margin: 0;
+}
+
+body{
+    background: #FFF1D6 url(noise.png);
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+sans-serif;
+    line-height: 1.6;
+}
+
+.place{
+    background-color: #FFF;
+    border: 1px solid #CCC;
+    border-color: #CCC #999 #999 #CCC;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.place a{
+    color: #2C88A7;
+    font-weight: bold;
+}
+
+h1 a{
+    color: #7E9F19;
+    text-decoration: none;
+}
+img {
+    width: 100%;
+    max-width: 400px; /* Define um tamanho máximo para evitar que fiquem muito grandes */
+    height: auto; /* Mantém a proporção da imagem */
+    display: block; /* Evita espaços extras abaixo das imagens */
+    margin: 0 auto; /* Centraliza a imagem */
+    border-radius: 10px; /* Opcional: arredonda os cantos das imagens */
+}
+.place img {
+    border: 1px solid #7E9F19;
+    float: left; /*alinha os elementos horizontalmente */
+    margin: 10px 10px 0 0;
+    padding: 2px;
+    }
+.clear {
+    clear: both;
+        }
+.footer{
+    font-size: 12px;
+    text-align: center;
+    background-color: #05233b; /* Adiciona um fundo para diferenciar */
+    color: #ffffff;
+    padding: 10px 0; /* Adiciona espaçamento interno para melhorar a aparência */
+    margin-top: 20px; /* Dá um espaçamento entre o rodapé e o conteúdo acima */
+}
+
+.sidenote {
+    background-color: #FFFBE4;
+    border: 1px solid #C9BC8F;
+    padding: 10px;
+    }
+.sidenote h3 {
+    font-size: 14px;
+    margin-top: 0;
+    }
+.sidenote ol {
+    font-size: 12px;
+    }
+.places {
+        float: left;
+        width: 660px;
+        }
+.sidenote {          
+background-color: #FFFBE4;
+border: 1px solid #C9BC8F;
+float: right;
+padding: 10px;
+width: 260px;}
+
+
+
